@@ -1,0 +1,6 @@
+instructions: |
+  This repository contains Bybit V5 trading-bot examples in C# (.NET 8 with Bybit.Net) and Python (Python 3.10 with pybit).
+  Keep changes consistent with the example's language, SDK, and directory conventions. Avoid adding dependencies unless they are needed for the change.
+  Never hardcode or commit API credentials; use environment variables or local, untracked configuration.
+  Treat these examples as educational software. Use mocks or Bybit testnet for validation; never submit live orders or move funds as part of development or testing.
+  Run the relevant available checks after changing code, and state clearly when a check could not be run.
